@@ -1,11 +1,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)<br>
 [![shields.io](https://img.shields.io/badge/twitall-1.0.30-brightgreen.svg?style=for-the-badge)](https://www.npmjs.com/package/twitall)<br><br>
 
-**Twitall is the better Twitter API.**<br>
-Free to use, **Open Source** & no Twitter developer account required.<br>
-_Compatible with the new Twitter_
-<br><br>
-
 **What's possible?**
 ````javascript
 twitall.login(username_or_email, password)
